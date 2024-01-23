@@ -1,0 +1,6 @@
+SIG_20221119 -> 한국 지도 .shp 데이터
+kernel_center2 -> 서울시, 경기도, 강원도,...,속초시 20개의 커널중심점(s_j)
+pm2.5_dat_result16 -> 지역과 시간별로 제안된 모델이 fitting된 평균, 분산
+pm2.5_dat2 -> 공공데이터에서 다운받을 수 있는 초미세먼지 데이터
+samples1 -> MCMC sampling결과
+z -> 군집번호(MCMC sample에서 최빈값)
